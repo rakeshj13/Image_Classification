@@ -1,4 +1,4 @@
-Overview
+<h1>Overview</h1>
 This project demonstrates the use of Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset into 10 distinct categories:
 airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
 
