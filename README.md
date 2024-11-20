@@ -1,46 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>CIFAR-10 Image Classification using CNN and ANN</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        p {
-            font-size: 16px;
-            color: #444;
-        }
-        .table-container {
-            margin-top: 20px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 10px;
-        }
-        table, th, td {
-            border: 1px solid #ddd;
-        }
-        th, td {
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
 
     <h1>Overview</h1>
     <p>This project demonstrates the use of Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset into 10 distinct categories: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.</p>
@@ -98,6 +57,3 @@
             </tbody>
         </table>
     </div>
-
-</body>
-</html>
